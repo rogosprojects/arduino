@@ -1,4 +1,0 @@
-arduino
-=======
-
-Progetti per Arduino
